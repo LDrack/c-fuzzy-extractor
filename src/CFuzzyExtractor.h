@@ -1,9 +1,23 @@
-// *** Author: Lucas Drack
-// *** Created: 2022-02-07
+//########################################################################
+// (C) Embedded Systems Lab
+// All rights reserved.
+// ------------------------------------------------------------
+// This document contains proprietary information belonging to
+// Research & Development FH OÖ Forschungs und Entwicklungs GmbH.
+// Using, passing on and copying of this document or parts of it
+// is generally not permitted without prior written authorization.
+// ------------------------------------------------------------
+// info(at)embedded-lab.at
+// https://www.embedded-lab.at/
+//########################################################################
+// *** File name: CFuzzyExtractor.h
+// *** Date of file creation: 2022-02-07
+// *** List of autors: Lucas Drack
 // ***
 // *** C implementation of Carter Yagemann's python Fuzzy Extractor.
 // *** Original implementation and more information can be found here:
 // *** https://github.com/carter-yagemann/python-fuzzy-extractor
+//########################################################################
 
 #ifndef __C_FUZZYEXTRACTOR_H__
 #define __C_FUZZYEXTRACTOR_H__
